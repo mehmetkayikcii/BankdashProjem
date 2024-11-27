@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    @apply text-[100%] bg-slate-200
+}
+
+body{
+    @apply  mx-auto 
+}
+
